@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zj28t0ymw-python-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/zj28t0ymw-python-gitops
